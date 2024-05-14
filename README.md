@@ -35,23 +35,22 @@ This data comes from the UCI Machine Learning repository and was collected via a
 - **Acceptance rate for drivers that had passengers who are not kids, and have occupations other than farming, fishing, or forestry:** 48.36%
 - **Acceptance rate for drivers that go to cheap restaurants more than 4 times a month and income is less than 50K:** 45.35%
 
-### Observations
-- **Those without urgent destinations are more likely to accept**
-- **Having a friend as a passenger raises probability**
-- **Weather and temperature have no bearing**
-- **10 AM and 2 PM have the highest acceptance rates**
-- **1-day expirations work best**
-- **Younger individuals (26 and under) are more likely to use the coupon**
-- **Marital status, income level, having children, and education level have little bearing**
-- **Those who go to bars are far more likely, especially those who go more than 3 times per month**
-
-### Detailed Acceptance Rates for Drivers with Passengers
-- **Acceptance rate for drivers that had passengers who are not kids, and have occupations other than farming, fishing, or forestry:** 48.36%
-
 ### Detailed Acceptance Rates for Specific Groups
 - **Acceptance rate for drivers that go to bars more than once a month, had passengers that were not a kid, and were not widowed:** 71.79%
 - **Acceptance rate for drivers that go to bars more than once a month and are under the age of 30:** 80.88%
 - **Acceptance rate for drivers that go to cheap restaurants more than 4 times a month and income is less than 50K:** 45.35%
+
+### Detailed Acceptance Rates for Drivers with Passengers
+- **Acceptance rate for drivers that had passengers who are not kids, and have occupations other than farming, fishing, or forestry:** 48.36%
+
+### Observations
+- **Those without urgent destinations are more likely to accept.**
+- **Having a friend as a passenger raises probability.**
+- **Younger individuals (30 and under) are more likely to use the coupon.**
+- **Those who go to bars are far more likely, especially those who go more than 3 times per month.**
+
+
+
 
 ## Coffee House Coupon Acceptance Rates
 
